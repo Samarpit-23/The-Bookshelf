@@ -1,1 +1,1 @@
-#E-CommerceApp
+Created E-Commerce platform using MERN stack. 
